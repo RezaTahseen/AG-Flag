@@ -31,5 +31,5 @@ body{
     margin-left: 210px;
 }
 .clear-div{
-    clear: both;
+    clear: all;
 }
